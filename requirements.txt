@@ -17,5 +17,5 @@ werkzeug==2.2.2
 apscheduler 
 telethon-tgcrypto
 mutagen
-yt-dlp
+yt-dlp[default,curl-cffi]
 speedtest-cli
